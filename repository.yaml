@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: kdw2060 Home Assistant add-on repo
-url: 'https://github.com/kdw2060/hassio-addons'
+url: 'https://github.com/moberley/hassio-addons-kdw2060'
 maintainer: kdw2060 <nobody@example.com>
